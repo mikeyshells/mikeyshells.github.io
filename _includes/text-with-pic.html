@@ -1,0 +1,19 @@
+<section id="{{ section.section_id }}" class="page-section {{ section.background_style }}">
+  <div class="container">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider my-4">
+    <p class="text-center {{ section.note_style | default: "text-muted" }} mb-5">{{ section.note }}</p>
+    {% for proj in section.projects %}
+    <div class="row mb-4 justify-content-center">
+      <div class="col-sm-6 col-md-5 col-lg-5 col-xl-5">
+        <img class="img-fluid" src="{{ proj.image }}" alt="">
+      </div>
+      <div class="col-sm-1 col-md-1 col-lg-1 col-xl-1">
+      </div>
+      <div class="col-sm-6 col-md-5 col-lg-5 col-xl-5 mb-4 {{ proj.text_style | default: "text-muted" }}">
+        {{ proj.para | newline_to_br | markdownify }}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

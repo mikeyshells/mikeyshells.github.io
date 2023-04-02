@@ -1,21 +1,27 @@
-<div id="portfolio" class="{{ section.background_style }}">
+<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
   <div class="container-fluid p-0">
-    <div class="row no-gutters">
-      {% for proj in section.projects %}
-      <div class="col-lg-4 col-sm-6">
-        <a class="portfolio-box" href="assets/img/portfolio/fullsize/{{ proj.icon }}">
-          <img class="img-fluid" src="assets/img/portfolio/thumbnails/{{ proj.icon }}" alt="">
-          <div class="portfolio-box-caption">
-            <div class="project-category text-white-50">
-              {{ proj.title }}
-            </div>
-            <div class="project-name">
-              {{ proj.text }}
-            </div>
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider my-4">
+    <p class="text-center {{ section.note_style | default: "text-muted" }} mb-5">{{ section.note }}</p>
+    <div class="row justify-content-center">
+      <div class="col-lg-2 col-xl-2"></div>
+      <div class="col-sm-12 col-md-12 col-lg-8 col-xl-8">
+        <div class="row justify-content-center">
+          {% for proj in section.projects %}
+          <div class="my-3 col-sm-5 col-md-5 col-lg-4 col-xl-4">
+            <a class="portfolio-box ">
+              <img class="img-fluid" src="assets/img/portfolio/{{ proj.icon }}" alt="">
+              <div class="portfolio-box-caption">
+                <div class="project-name">
+                  {{ proj.text }}
+                </div>
+              </div>
+            </a>
           </div>
-        </a>
+          {% endfor %}
+        </div>
       </div>
-      {% endfor %}
+      <div class="col-lg-2 col-xl-2"></div>
     </div>
   </div>
-</div>
+</section>

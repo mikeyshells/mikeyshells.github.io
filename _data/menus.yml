@@ -3,15 +3,13 @@
 # However on github-pages custom plugins are disabled, and the script doesn't
 # run. So please, fill in any custom menu entry here.
 header:
-- title: About
-  url: /#about
-- title: Services
-  url: /#services
-- title: Members
-  url: /#members
-- title: History
-  url: /#timeline
-- title: Contacts
-  url: /#contacts
-- title: Links
-  url: /links
+- title: 主页
+  url: /
+- title: 论文润色
+  url: /polishing
+- title: 论文翻译
+  url: /translation
+- title: 论文投稿
+  url: /contribution
+- title: 付费及发票
+  url: /expense

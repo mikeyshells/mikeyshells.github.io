@@ -1,0 +1,19 @@
+<section id="{{ section.section_id }}" class="page-section-smaller {{ section.background_style }}">
+  <div class="container">
+    <h2 class="text-center mt-0">{{ section.title }}</h2>
+    <hr class="divider my-4">
+    <p class="text-center {{ section.note_style | default: "text-muted" }} mb-5">{{ section.note }}</p>
+    <div class="row justify-content-center">
+      <div class="mb-4 col-sm-12 col-md-12 col-lg-9 col-xl-7 {{ section.text_style | default: "text-muted" }}">
+        {% for proj in section.projects %}
+        <ul class="icons bulleted" >
+            <li class="icon {{ proj.icon_style }} {{ proj.icon }} fa-2x">
+              <h3 class="my-0">{{ proj.title }}</h3>
+            </li>
+        </ul>
+        <p>{{ proj.text | newline_to_br | markdownify }}</p>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</section>

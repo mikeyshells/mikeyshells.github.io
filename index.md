@@ -28,7 +28,7 @@ sections:
     section_id: service-idea
     background_style: bg-primary
     title: 服务理念
-    text: <p>　最专业的语言　　最实惠的价格　</p><p>　最优质的方案　　最贴心的售后　</p>
+    text: <p>最专业的语言　　　最实惠的价格<span class="breakPSpan">　　　</span><br class="breakPBr" style="display:none">最优质的方案　　　最贴心的售后</p>
     actions:
       - title: 联系我们
         url: '#contacts'

@@ -10152,3 +10152,17 @@ header.masthead h1 {
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
 }
+
+@media(max-width: 768px) {
+    #wrapper {
+        padding: 2rem 1rem;
+    }
+    
+    .breakPSpan {
+        display: none;
+    }
+    
+    .breakPBr {
+        display: inline-block!important;
+    }
+}

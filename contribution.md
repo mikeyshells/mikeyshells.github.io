@@ -66,7 +66,7 @@ sections:
       title: >+
         发送稿件及作者信息
       text: >-
-        Send your article and author information.
+        Send your article with author information.
     - image: assets/img/illustration/blank.jpg
       title: >+
         支付订单
@@ -76,7 +76,7 @@ sections:
       title: >+
         撰写Cover Letter，编辑稿件及文献格式，论文投稿
       text: >-
-        Write a cover letter, edit manuscripts and reference formatting, and submit a paper for publication.
+        Write a cover letter, edit manuscripts and reference formatting, and submit paper for publication.
     - image: assets/img/illustration/blank.jpg
       title: >+
         返修撰写Cover Letter，提交修改稿

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 论文投稿
-note: 专业解决投稿过程中的琐碎问题，轻松快速投稿
+note: 专业解决投稿过程中的琐碎问题 轻松快速投稿
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-03.jpg')
 # Add a link to the the top menu

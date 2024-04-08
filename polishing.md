@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 论文润色
-note: 高端润色、精深润色、双语润色三种服务 满足您的不同需求
+note: 高端润色、精深润色、双语润色 满足您的不同需求
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-01.jpg')
 # Add a link to the the top menu

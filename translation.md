@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 论文翻译
-note: 专家、专注、专心、专诚 成就您的完美科研作品
+note: 专业、专注、专心、专诚 成就您的完美科研作品
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-02.jpg')
 # Add a link to the the top menu

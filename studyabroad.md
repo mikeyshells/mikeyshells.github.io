@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 出国留学
-note: 海派精英顾问，第一手申请经验，全链式高端服务，让世界名校触手可及！
+note: 海派精英顾问 第一手申请经验 全链式高端服务 让世界名校触手可及
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-01.jpg')
 # Add a link to the the top menu

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 付费及发票
-note: 提供多种灵活付款方式 满足您的不同付款习惯和需求 同时可开具发票
+note: 多种灵活付款方式 满足不同付款习惯需求 同时可开具发票
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-04.jpg')
 # Add a link to the the top menu

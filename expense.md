@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 付费及发票
-note: 多种灵活付款方式 满足不同付款习惯需求 同时可开具发票
+note: 多种付款方式 满足不同付款习惯需求 同时可开具发票
 #background_style: bg-info
 background_image: url('assets/img/backgrounds/banner-04.jpg')
 # Add a link to the the top menu
@@ -16,7 +16,7 @@ sections:
   title: 收费标准
   note: 论文小镇所有服务收费标准汇聚于此
   text: >+
-    <table class="table table-bordered text-left text-muted"><thead><tr><th width="15%">服务类型</th><th>服务项目</th><th>非会员价</th><th>会员价</th><th width="30%">适用稿件</th></tr></thead><tbody><tr><th rowspan="3">论文润色</th><td>高端润色</td><td>480元/千词字</td><td>450元/千词字</td><td>需要反复多次调整才能定稿的稿件</td></tr><tr><td>精深润色</td><td>300元/千词字</td><td>270元/千词字</td><td>直接用英文撰写的稿件<span style="color:red;">（推荐*）</span></td></tr><tr><td>双语润色</td><td>420元/千词字</td><td>380元/千词字</td><td>先用中文撰写，已自行翻译成英文的稿件</td></tr><tr><th rowspan="2">论文翻译</th><td>中译英</td><td>980元/千词字</td><td>900元/千词字</td><td>原稿为中文，需要我们协助转换成英文进行发表的稿件<span style="color:red;">（推荐*）</span></td></tr><tr><td>英译中</td><td>380元/千词字</td><td>350元/千词字</td><td>英文参考资料</td></tr><tr><th rowspan="3">论文投稿</th><td>SCI论文期刊投稿</td><td>980元/篇</td><td>880元/篇</td><td></td></tr><tr><td>EI论文期刊投稿</td><td>1180元/篇</td><td>1080元/篇</td><td></td></tr><tr><td>期刊论文改投</td><td>680元/次</td><td>680元/次</td><td></td></tr></tbody></table>
+    <table class="table table-bordered text-left text-muted"><thead><tr><th width="17%">服务类型</th><th width="17%">服务项目</th><th width="17%">非会员价</th><th width="17%">会员价</th><th width="32%">适用稿件</th></tr></thead><tbody><tr><th rowspan="3">论文润色</th><td>高端润色</td><td>480元/千词字</td><td>450元/千词字</td><td>需要反复多次调整才能定稿的稿件</td></tr><tr><td>精深润色</td><td>300元/千词字</td><td>270元/千词字</td><td>直接用英文撰写的稿件<span style="color:red;">（推荐*）</span></td></tr><tr><td>双语润色</td><td>420元/千词字</td><td>380元/千词字</td><td>先用中文撰写，已自行翻译成英文的稿件</td></tr><tr><th rowspan="2">论文翻译</th><td>中译英</td><td>980元/千词字</td><td>900元/千词字</td><td>原稿为中文，需要我们协助转换成英文进行发表的稿件<span style="color:red;">（推荐*）</span></td></tr><tr><td>英译中</td><td>380元/千词字</td><td>350元/千词字</td><td>英文参考资料</td></tr><tr><th rowspan="3">论文投稿</th><td>SCI论文期刊投稿</td><td>980元/篇</td><td>880元/篇</td><td></td></tr><tr><td>EI论文期刊投稿</td><td>1180元/篇</td><td>1080元/篇</td><td></td></tr><tr><td>期刊论文改投</td><td>680元/次</td><td>680元/次</td><td></td></tr></tbody></table>
 
     说明:
 

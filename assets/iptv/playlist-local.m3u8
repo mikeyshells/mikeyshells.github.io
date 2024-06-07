@@ -1,469 +1,469 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1 综合
-http://cfss.cc/ds/sxg.php?id=CCTV-1H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-1H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV-2 财经
-http://cfss.cc/ds/sxg.php?id=CCTV-2H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-2H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV-3 综艺
-http://cfss.cc/ds/sxg.php?id=CCTV-3H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-3H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV-4 国际
-http://cfss.cc/ds/sxg.php?id=CCTV-4H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-4H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV-5 体育
-http://cfss.cc/ds/sxg.php?id=CCTV-5H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-5H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV-5+赛事
-http://cfss.cc/ds/sxg.php?id=CCTV-5plusH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-5plusH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV-6 电影
-http://cfss.cc/ds/sxg.php?id=CCTV-6H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-6H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV-7 国防
-http://cfss.cc/ds/sxg.php?id=CCTV-7H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-7H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV-8 电视
-http://cfss.cc/ds/sxg.php?id=CCTV-8H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-8H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://cfss.cc/ds/sxg.php?id=CCTV-9H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-9H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV-10 科教
-http://cfss.cc/ds/sxg.php?id=CCTV-10H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-10H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV-11 戏曲
-http://cfss.cc/ds/sxg.php?id=CCTV-11-H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-11-H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12 社会
-http://cfss.cc/ds/sxg.php?id=CCTV-12H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-12H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13 新闻
-http://cfss.cc/ds/sxg.php?id=CCTV-xw_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-xw_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://cfss.cc/ds/sxg.php?id=CCTV-14H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-14H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV-15 音乐
-http://cfss.cc/ds/sxg.php?id=CCTV-15-yyH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-15-yyH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥匹
-http://cfss.cc/ds/sxg.php?id=CCTV-16_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-16_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV-16 奥匹4K
-http://cfss.cc/ds/sxg.php?id=CCTV-16-4K_8000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-16-4K_8000&Sc.m3u8
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV-17 农村
-http://cfss.cc/ds/sxg.php?id=CCTV-17_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CCTV-17_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="央视",CCTV-4K超清
-http://cfss.cc/ds/sxg.php?id=ys4Kcq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ys4Kcq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-俄语
-http://cfss.cc/ds/sxg.php?id=ey_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ey_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-法语
-http://cfss.cc/ds/sxg.php?id=fy_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fy_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-西语
-http://cfss.cc/ds/sxg.php?id=xbyy_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xbyy_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN-英语
-http://cfss.cc/ds/sxg.php?id=CGTN_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CGTN_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",超高清电影4K
-http://cfss.cc/ds/sxg.php?id=emdy4k_8000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=emdy4k_8000&Sc.m3u8
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://cfss.cc/ds/sxg.php?id=scwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=scwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
-http://cfss.cc/ds/sxg.php?id=cqwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=cqwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
-http://cfss.cc/ds/sxg.php?id=ahwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ahwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
-http://cfss.cc/ds/sxg.php?id=bjwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=bjwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",兵团卫视
-http://cfss.cc/ds/sxg.php?id=btws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=btws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
-http://cfss.cc/ds/sxg.php?id=dfwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dfwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
-http://cfss.cc/ds/sxg.php?id=dnwsfjwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dnwsfjwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
-http://cfss.cc/ds/sxg.php?id=gsws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gsws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
-http://cfss.cc/ds/sxg.php?id=gdwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gdwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://cfss.cc/ds/sxg.php?id=gxws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gxws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
-http://cfss.cc/ds/sxg.php?id=gzwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gzwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
-http://cfss.cc/ds/sxg.php?id=hnws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hnws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
-http://cfss.cc/ds/sxg.php?id=hnws35_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hnws35_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
-http://cfss.cc/ds/sxg.php?id=hbwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hbwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="卫视",湖南卫视
-http://cfss.cc/ds/sxg.php?id=hnwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hnwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
-http://cfss.cc/ds/sxg.php?id=jlwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jlwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
-http://cfss.cc/ds/sxg.php?id=jswsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jswsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
-http://cfss.cc/ds/sxg.php?id=jxwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jxwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="70" tvg-name="康巴卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/kangba.png" group-title="卫视",康巴卫视
-http://cfss.cc/ds/sxg.php?id=kbwsH264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=kbwsH264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
-http://cfss.cc/ds/sxg.php?id=lnwsHDH264_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lnwsHDH264_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
-http://cfss.cc/ds/sxg.php?id=sdwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sdwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
-http://cfss.cc/ds/sxg.php?id=sxws42_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sxws42_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
-http://cfss.cc/ds/sxg.php?id=sxws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sxws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
-http://cfss.cc/ds/sxg.php?id=szwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=szwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
-http://cfss.cc/ds/sxg.php?id=tjwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=tjwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
-http://cfss.cc/ds/sxg.php?id=xzwsH264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xzwsH264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
-http://cfss.cc/ds/sxg.php?id=ynws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ynws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
-http://cfss.cc/ds/sxg.php?id=zjwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zjwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
-http://cfss.cc/ds/sxg.php?id=nmgws_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=nmgws_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
-http://cfss.cc/ds/sxg.php?id=hljwsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hljwsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="卫视",山东教育卫视
-http://cfss.cc/ds/sxg.php?id=sdjy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sdjy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",CETV-1
-http://cfss.cc/ds/sxg.php?id=CETV-1H264_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CETV-1H264_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="卫视",CETV-4
-http://cfss.cc/ds/sxg.php?id=CETV-4H264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CETV-4H264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文
-http://cfss.cc/ds/sxg.php?id=test1_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=test1_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯
-http://cfss.cc/ds/sxg.php?id=test2_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=test2_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2054" tvg-name="SCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv2.png" group-title="四川",四川文化
-http://cfss.cc/ds/sxg.php?id=SCTV-3-H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-3-H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-name="SCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv3.png" group-title="四川",四川经济
-http://cfss.cc/ds/sxg.php?id=SCTV-2-H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-2-H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2056" tvg-name="SCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv4.png" group-title="四川",四川新闻
-http://cfss.cc/ds/sxg.php?id=SCTV-4H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-4H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2057" tvg-name="SCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv5.png" group-title="四川",四川影视
-http://cfss.cc/ds/sxg.php?id=SCTV-5-scysH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-5-scysH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2059" tvg-name="SCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv7.png" group-title="四川",四川妇女
-http://cfss.cc/ds/sxg.php?id=SCTV-7-_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-7-_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2062" tvg-name="SCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv8.png" group-title="四川",四川科教
-http://cfss.cc/ds/sxg.php?id=SCTV-ggSCTV-8_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-ggSCTV-8_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="SCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/sctv9.png" group-title="四川",四川乡村
-http://cfss.cc/ds/sxg.php?id=SCTV-kjSCTV-9-_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=SCTV-kjSCTV-9-_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2060" tvg-name="峨眉电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/emeidianying.png" group-title="四川",峨眉电影
-http://cfss.cc/ds/sxg.php?id=emdygqH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=emdygqH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",峨眉综合
-http://cfss.cc/ds/sxg.php?id=emsxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=emsxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="2064" tvg-name="CDTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv1.png" group-title="四川",成都新闻
-http://cfss.cc/ds/sxg.php?id=CDTV-1_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CDTV-1_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2068" tvg-name="CDTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/cdtv5.png" group-title="四川",成都公共
-http://cfss.cc/ds/sxg.php?id=CDTV-5_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=CDTV-5_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",成都高新区
-http://cfss.cc/ds/sxg.php?id=cdgxdstgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=cdgxdstgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CBN风尚生活
-http://cfss.cc/ds/sxg.php?id=fssh_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fssh_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CBN每日影院
-http://cfss.cc/ds/sxg.php?id=mryy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mryy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CBN幸福剧场
-http://cfss.cc/ds/sxg.php?id=xfjc_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xfjc_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",CBN幸福娱乐
-http://cfss.cc/ds/sxg.php?id=xfyl_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xfyl_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC动作电影
-http://cfss.cc/ds/sxg.php?id=wqCHCdzdyH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wqCHCdzdyH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
-http://cfss.cc/ds/sxg.php?id=lnwsCHC-HDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lnwsCHC-HDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
-http://cfss.cc/ds/sxg.php?id=jbtygqCHCjtyyH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jbtygqCHCjtyyH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="地方",欢笑剧场-4K
-http://cfss.cc/ds/sxg.php?id=hxjc-4k_8000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hxjc-4k_8000&Sc.m3u8
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方",中央新影-老故事
-http://cfss.cc/ds/sxg.php?id=lgs_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lgs_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中央新影-中学生
-http://cfss.cc/ds/sxg.php?id=zxs_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zxs_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6588" tvg-name="发现之旅" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfaxianzhilv.png" group-title="地方",中央新影-发现之旅
-http://cfss.cc/ds/sxg.php?id=fxzl_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fxzl_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",动漫秀场
-http://cfss.cc/ds/sxg.php?id=yybb-dmxc-H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yybb-dmxc-H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",都市剧场
-http://cfss.cc/ds/sxg.php?id=yxfydsjcHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yxfydsjcHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",法治天地
-http://cfss.cc/ds/sxg.php?id=fztx_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fztx_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",极速汽车
-http://cfss.cc/ds/sxg.php?id=jsqcH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jsqcH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",纪实科教
-http://cfss.cc/ds/sxg.php?id=bjjs_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=bjjs_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",嘉佳卡通
-http://cfss.cc/ds/sxg.php?id=jjkt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jjkt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",家庭理财
-http://cfss.cc/ds/sxg.php?id=jtlc_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jtlc_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
-http://cfss.cc/ds/sxg.php?id=jyjsHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jyjsHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通
-http://cfss.cc/ds/sxg.php?id=jykt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jykt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方",劲爆体育
-http://cfss.cc/ds/sxg.php?id=lqhxjcHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lqhxjcHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",聚鲨环球
-http://cfss.cc/ds/sxg.php?id=jshqjxHD_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jshqjxHD_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="地方",卡酷少儿
-http://cfss.cc/ds/sxg.php?id=kkkt_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=kkkt_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",茶频道
-http://cfss.cc/ds/sxg.php?id=cpd_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=cpd_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
-http://cfss.cc/ds/sxg.php?id=jyjsHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jyjsHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="地方",金鹰卡通
-http://cfss.cc/ds/sxg.php?id=jykt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jykt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinbaotiyu.jpg" group-title="地方",劲爆体育
-http://cfss.cc/ds/sxg.php?id=lqhxjcHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lqhxjcHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",快乐垂钓
-http://cfss.cc/ds/sxg.php?id=fyzqklcdHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fyzqklcdHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",长风乐游
-http://cfss.cc/ds/sxg.php?id=qjs-HDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qjs-HDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6555" tvg-name="梨园" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE20.jpg" group-title="地方",梨园频道
-http://cfss.cc/ds/sxg.php?id=ly_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ly_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",魅力足球
-http://cfss.cc/ds/sxg.php?id=mlyy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mlyy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="1956" tvg-name="七彩戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/qicaixiju.png" group-title="地方",七彩戏剧
-http://cfss.cc/ds/sxg.php?id=qcxj_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qcxj_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="6577" tvg-name="摄影频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/PHOTOGRAPHY-CHANNEL.jpg" group-title="地方",摄影频道
-http://cfss.cc/ds/sxg.php?id=sy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="地方",生活时尚
-http://cfss.cc/ds/sxg.php?id=shssH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=shssH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6606" tvg-name="四海钓鱼" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" group-title="地方",四海钓鱼
-http://cfss.cc/ds/sxg.php?id=shdy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=shdy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6578" tvg-name="天元围棋" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/TIANYUANWEIQI.jpg" group-title="地方",天元围棋
-http://cfss.cc/ds/sxg.php?id=tywq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=tywq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="6586" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WUSHUSHIJIE.jpg" group-title="地方",武术世界
-http://cfss.cc/ds/sxg.php?id=wssj_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wssj_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方",先锋乒羽
-http://cfss.cc/ds/sxg.php?id=xfpy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xfpy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="1963" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/xinshijue.png" group-title="地方",新视觉
-http://cfss.cc/ds/sxg.php?id=ycxsjH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ycxsjH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库
-http://cfss.cc/ds/sxg.php?id=wwbk_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wwbk_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",证劵服务
-http://cfss.cc/ds/sxg.php?id=jz_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jz_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",中国天气
-http://cfss.cc/ds/sxg.php?id=zgqx_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zgqx_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",阿坝文艺
-http://cfss.cc/ds/sxg.php?id=wypdgqH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wypdgqH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",阿坝综合
-http://cfss.cc/ds/sxg.php?id=abxwzhpdgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=abxwzhpdgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",安岳综合
-http://cfss.cc/ds/sxg.php?id=ayxwzh_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ayxwzh_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",安州综合
-http://cfss.cc/ds/sxg.php?id=azgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=azgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",巴州
-http://cfss.cc/ds/sxg.php?id=bzxw_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=bzxw_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",宝兴综合
-http://cfss.cc/ds/sxg.php?id=bxdst_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=bxdst_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",北川综合
-http://cfss.cc/ds/sxg.php?id=bcxwHD_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=bcxwHD_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",苍溪综合
-http://cfss.cc/ds/sxg.php?id=cxxwgqH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=cxxwgqH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",朝天综合
-http://cfss.cc/ds/sxg.php?id=ctxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ctxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",崇州综合
-http://cfss.cc/ds/sxg.php?id=czyt_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=czyt_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",川网导视
-http://cfss.cc/ds/sxg.php?id=cwdsHDH264_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=cwdsHDH264_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",船山综合
-http://cfss.cc/ds/sxg.php?id=csxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=csxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",达川新闻
-http://cfss.cc/ds/sxg.php?id=dcxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dcxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",达州导视
-http://cfss.cc/ds/sxg.php?id=dzds_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dzds_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",达州通川
-http://cfss.cc/ds/sxg.php?id=tcq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=tcq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",达州文化
-http://cfss.cc/ds/sxg.php?id=dzgg_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dzgg_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",达州新闻
-http://cfss.cc/ds/sxg.php?id=dzxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dzxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",大邑
-http://cfss.cc/ds/sxg.php?id=dyytH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dyytH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",大英新闻
-http://cfss.cc/ds/sxg.php?id=dyxwzhH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dyxwzhH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",东方财经
-http://cfss.cc/ds/sxg.php?id=dfcj_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=dfcj_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",动漫秀场
-http://cfss.cc/ds/sxg.php?id=yybb-dmxc-H265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yybb-dmxc-H265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",都市剧场
-http://cfss.cc/ds/sxg.php?id=yxfydsjcHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yxfydsjcHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",峨边综合
-http://cfss.cc/ds/sxg.php?id=ebdst_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ebdst_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",恩阳新闻
-http://cfss.cc/ds/sxg.php?id=eyxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=eyxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",法治天地
-http://cfss.cc/ds/sxg.php?id=fztx_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fztx_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",涪城综合
-http://cfss.cc/ds/sxg.php?id=fcgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=fcgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",甘孜综合
-http://cfss.cc/ds/sxg.php?id=gzxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gzxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",高县
-http://cfss.cc/ds/sxg.php?id=gxt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gxt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",珙县新闻
-http://cfss.cc/ds/sxg.php?id=gxzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gxzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",古蔺新闻
-http://cfss.cc/ds/sxg.php?id=glxwzhgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=glxwzhgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",广元文化
-http://cfss.cc/ds/sxg.php?id=gyggH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gyggH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",广元综合
-http://cfss.cc/ds/sxg.php?id=gyzhH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gyzhH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",洪雅新闻
-http://cfss.cc/ds/sxg.php?id=hyzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=hyzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",夹江新闻
-http://cfss.cc/ds/sxg.php?id=jjxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jjxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",剑阁综合
-http://cfss.cc/ds/sxg.php?id=jgxwzhH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jgxwzhH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",金口河综合
-http://cfss.cc/ds/sxg.php?id=jkhdst_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jkhdst_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",金牛标清
-http://cfss.cc/ds/sxg.php?id=jnyx_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jnyx_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",金色学堂
-http://cfss.cc/ds/sxg.php?id=jspd_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jspd_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",金堂
-http://cfss.cc/ds/sxg.php?id=jtzhpd_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jtzhpd_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",精品导视
-http://cfss.cc/ds/sxg.php?id=jpdsH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jpdsH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",井研新闻
-http://cfss.cc/ds/sxg.php?id=jyxwzh162_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=jyxwzh162_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",开江新闻
-http://cfss.cc/ds/sxg.php?id=kjxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=kjxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",康定
-http://cfss.cc/ds/sxg.php?id=gzkdxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=gzkdxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",乐山文旅
-http://cfss.cc/ds/sxg.php?id=lsggpd_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lsggpd_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",乐山新闻
-http://cfss.cc/ds/sxg.php?id=lsxwzh_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lsxwzh_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",乐游
-http://cfss.cc/ds/sxg.php?id=qjs-HDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qjs-HDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",乐至综合
-http://cfss.cc/ds/sxg.php?id=lezhixwzh_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lezhixwzh_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",利州综合
-http://cfss.cc/ds/sxg.php?id=lzxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lzxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",凉山新闻
-http://cfss.cc/ds/sxg.php?id=lsxwHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lsxwHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",彝语综合
-http://cfss.cc/ds/sxg.php?id=yyzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yyzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",隆昌综合
-http://cfss.cc/ds/sxg.php?id=lcxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lcxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",庐山综合
-http://cfss.cc/ds/sxg.php?id=lszh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=lszh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",泸定综合
-http://cfss.cc/ds/sxg.php?id=ldxw_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ldxw_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",马边综合
-http://cfss.cc/ds/sxg.php?id=mbxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mbxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",眉山公共
-http://cfss.cc/ds/sxg.php?id=msgg_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=msgg_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",眉山综合
-http://cfss.cc/ds/sxg.php?id=msxwzhgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=msxwzhgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",魅力足球
-http://cfss.cc/ds/sxg.php?id=mlyy_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mlyy_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",米易综合
-http://cfss.cc/ds/sxg.php?id=myxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=myxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",绵阳科技
-http://cfss.cc/ds/sxg.php?id=myetH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=myetH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",绵阳新闻
-http://cfss.cc/ds/sxg.php?id=myytH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=myytH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",名山
-http://cfss.cc/ds/sxg.php?id=msdstH265_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=msdstH265_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",木里
-http://cfss.cc/ds/sxg.php?id=mltHD_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mltHD_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",沐川综合
-http://cfss.cc/ds/sxg.php?id=mcxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=mcxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",南充公共
-http://cfss.cc/ds/sxg.php?id=ncgg_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ncgg_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",南充综合
-http://cfss.cc/ds/sxg.php?id=ncxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ncxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",南江
-http://cfss.cc/ds/sxg.php?id=njxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=njxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",南溪综合
-http://cfss.cc/ds/sxg.php?id=nxt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=nxt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",攀钢新闻
-http://cfss.cc/ds/sxg.php?id=pgxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pgxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",攀枝花新闻
-http://cfss.cc/ds/sxg.php?id=pzhytH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pzhytH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",彭山综合
-http://cfss.cc/ds/sxg.php?id=pszh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pszh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",彭州综合
-http://cfss.cc/ds/sxg.php?id=pzxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pzxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",蓬溪新闻
-http://cfss.cc/ds/sxg.php?id=pxxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pxxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",郫县新闻
-http://cfss.cc/ds/sxg.php?id=pxds1_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pxds1_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",平昌综合
-http://cfss.cc/ds/sxg.php?id=pcxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pcxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",平武综合
-http://cfss.cc/ds/sxg.php?id=pwgq_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pwgq_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",屏山综合
-http://cfss.cc/ds/sxg.php?id=psxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=psxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",蒲江综合
-http://cfss.cc/ds/sxg.php?id=pjxw_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=pjxw_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",青白江综合
-http://cfss.cc/ds/sxg.php?id=qbjxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qbjxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",青神综合
-http://cfss.cc/ds/sxg.php?id=qszh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qszh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",邛崃综合
-http://cfss.cc/ds/sxg.php?id=qlds1t_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qlds1t_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",渠县新闻
-http://cfss.cc/ds/sxg.php?id=qxxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=qxxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",仁和新闻
-http://cfss.cc/ds/sxg.php?id=rhxwH264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=rhxwH264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",仁寿综合
-http://cfss.cc/ds/sxg.php?id=msrszh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=msrszh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",荣县综合
-http://cfss.cc/ds/sxg.php?id=rxzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=rxzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",三台综合
-http://cfss.cc/ds/sxg.php?id=stxwHD_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=stxwHD_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",沙湾融媒
-http://cfss.cc/ds/sxg.php?id=swxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=swxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",什邡新闻
-http://cfss.cc/ds/sxg.php?id=sfx_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sfx_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",松潘综合
-http://cfss.cc/ds/sxg.php?id=spxwzhpdH264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=spxwzhpdH264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",遂宁文化
-http://cfss.cc/ds/sxg.php?id=sngggq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=sngggq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",遂宁综合
-http://cfss.cc/ds/sxg.php?id=snxwzhHDH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=snxwzhHDH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",天泉新闻
-http://cfss.cc/ds/sxg.php?id=tqzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=tqzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",通江综合
-http://cfss.cc/ds/sxg.php?id=tjxwH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=tjxwH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",万源
-http://cfss.cc/ds/sxg.php?id=wyxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wyxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",旺苍综合
-http://cfss.cc/ds/sxg.php?id=wcxwzhH265_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wcxwzhH265_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",温江综合
-http://cfss.cc/ds/sxg.php?id=wjytH264_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wjytH264_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",五通桥
-http://cfss.cc/ds/sxg.php?id=wtqxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=wtqxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",西昌
-http://cfss.cc/ds/sxg.php?id=xctHD_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xctHD_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",西充综合
-http://cfss.cc/ds/sxg.php?id=xczh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xczh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",新都综合
-http://cfss.cc/ds/sxg.php?id=xdzhpd_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xdzhpd_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",新津
-http://cfss.cc/ds/sxg.php?id=xjzh_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xjzh_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",兴文
-http://cfss.cc/ds/sxg.php?id=xwt_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xwt_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",宣汉综合
-http://cfss.cc/ds/sxg.php?id=xhxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xhxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",雅安公共
-http://cfss.cc/ds/sxg.php?id=yagg_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yagg_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",雅安新闻
-http://cfss.cc/ds/sxg.php?id=yazh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yazh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",盐边
-http://cfss.cc/ds/sxg.php?id=ybtgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ybtgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",盐亭综合
-http://cfss.cc/ds/sxg.php?id=ytzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ytzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",雁江
-http://cfss.cc/ds/sxg.php?id=yjxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yjxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",宜宾导视
-http://cfss.cc/ds/sxg.php?id=ybds_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ybds_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",荥经
-http://cfss.cc/ds/sxg.php?id=xjdst_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=xjdst_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",营山
-http://cfss.cc/ds/sxg.php?id=ysxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ysxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",岳池
-http://cfss.cc/ds/sxg.php?id=ycxw_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ycxw_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",越西综合
-http://cfss.cc/ds/sxg.php?id=yxt_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=yxt_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",长宁综合
-http://cfss.cc/ds/sxg.php?id=znzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=znzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",昭化综合
-http://cfss.cc/ds/sxg.php?id=zhxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zhxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",中江综合
-http://cfss.cc/ds/sxg.php?id=zjxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zjxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",资阳新闻
-http://cfss.cc/ds/sxg.php?id=zyxwzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zyxwzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",资中综合
-http://cfss.cc/ds/sxg.php?id=zzzh_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zzzh_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",梓潼综合
-http://cfss.cc/ds/sxg.php?id=ztgq_2000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=ztgq_2000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡生活
-http://cfss.cc/ds/sxg.php?id=zggg_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zggg_4000&Sc.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="四川",自贡综合
-http://cfss.cc/ds/sxg.php?id=zgxw_4000&Cf.m3u8
+http://cfss.cc/ds/sxg.php?id=zgxw_4000&Sc.m3u8

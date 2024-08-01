@@ -3,7 +3,7 @@ layout: page
 title: 出国留学
 note: 海派精英顾问 第一手申请经验 全链式高端服务 让世界名校触手可及
 #background_style: bg-info
-background_image: url('assets/img/backgrounds/banner-01.jpg')
+background_image: url('assets/img/backgrounds/banner-05.jpg')
 # Add a link to the the top menu
 menus:
   header:
@@ -14,7 +14,7 @@ sections:
 - type: icon-list.html
   section_id: abroad-content
   title: 服务项目
-  note: 提供原创撰写、文书润色、选校陶瓷三种不同类型的留学服务
+  note: 提供原创撰写、文书润色、选校套磁三种不同类型的留学服务
   projects:
     - icon: fa-feather
       icon_style: fas
@@ -65,7 +65,7 @@ sections:
 - type: members.html
   section_id: editor-qualifications
   title: 编辑资质
-  background_style: bg-info text-white
+  background_style: bg-primary text-white
   members:
     - title: ​原创撰写
       text: 欧美著名大学在读/已毕业博士<br />具有申请留学经验<br />熟悉欧美大学招生政策
@@ -84,7 +84,7 @@ sections:
   section_id: abroad-cases
   title: 成功案例
   projects:
-    - image: assets/img/illustration/04.jpg
+    - image: assets/img/illustration/university-01.jpg
       para: >+
         ### 成功案例一
         
@@ -102,7 +102,7 @@ sections:
         
         - 已获offer学校：瓦赫宁根大学，萨省大学
         
-    - image: assets/img/illustration/05.jpg
+    - image: assets/img/illustration/university-02.jpg
       para: >+
         ### 成功案例二
         
@@ -127,31 +127,31 @@ sections:
   note: 选校范围包括以下所示的国家和地区
   projects:
     - text: 英国
-      icon: stilllife-01.jpg
+      icon: England.jpg
       url: '#'
     - text: 美国
-      icon: stilllife-02.jpg
+      icon: America.jpg
       url: '#'
     - text: 澳洲
-      icon: stilllife-03.jpg
+      icon: Australia.jpg
       url: '#'
     - text: 加拿大
-      icon: stilllife-04.jpg
+      icon: Canada.jpg
       url: '#'
     - text: 新加坡
-      icon: stilllife-05.jpg
+      icon: Singapore.jpg
       url: '#'
     - text: 韩国
-      icon: stilllife-06.jpg
+      icon: Korea.jpg
       url: '#'
     - text: 日本
-      icon: stilllife-01.jpg
+      icon: Japan.jpg
       url: '#'
     - text: 香港
-      icon: stilllife-02.jpg
+      icon: HongKong.jpg
       url: '#'
     - text: 其他欧洲国家
-      icon: stilllife-03.jpg
+      icon: Europe.jpg
       url: '#'
 
 - type: text-with-pic.html
@@ -159,7 +159,7 @@ sections:
   title: 服务流程
   note: 标准化的服务流程提升我们的效率，节约您的时间
   projects:
-    - image: assets/img/illustration/04.jpg
+    - image: assets/img/illustration/06.jpg
       para: >+
         ### 文书原创撰写
       
@@ -175,7 +175,7 @@ sections:
         
         - 二次审核，审核通过后交稿
         
-    - image: assets/img/illustration/05.jpg
+    - image: assets/img/illustration/07.jpg
       para: >+
         ### 文书润色
       
@@ -189,7 +189,7 @@ sections:
         
         - 主编审核，审核通过后交稿
         
-    - image: assets/img/illustration/04.jpg
+    - image: assets/img/illustration/08.jpg
       para: >+
         ### 选校套磁
       

@@ -86,7 +86,8 @@ sections:
   projects:
     - image: assets/img/illustration/university-01.jpg
       para: >+
-        ### 成功案例一
+      
+        ### <span style="color:#f4623a;">成功案例一</span>
         
         <span style="color:red;">Ruby同学</span>
         
@@ -104,7 +105,8 @@ sections:
         
     - image: assets/img/illustration/university-02.jpg
       para: >+
-        ### 成功案例二
+      
+        ### <span style="color:#f4623a;">成功案例二</span>
         
         <span style="color:red;">Lee同学</span>
         
@@ -161,7 +163,8 @@ sections:
   projects:
     - image: assets/img/illustration/06.jpg
       para: >+
-        ### 文书原创撰写
+      
+        ### <span style="color:#f4623a;">文书原创撰写</span>
       
         - 联系我们
         
@@ -177,7 +180,8 @@ sections:
         
     - image: assets/img/illustration/07.jpg
       para: >+
-        ### 文书润色
+      
+        ### <span style="color:#f4623a;">文书润色</span>
       
         - 联系我们
 
@@ -191,7 +195,8 @@ sections:
         
     - image: assets/img/illustration/08.jpg
       para: >+
-        ### 选校套磁
+      
+        ### <span style="color:#f4623a;">选校套磁</span>
       
         - 联系我们
         

@@ -96,11 +96,11 @@ sections:
 
         - 意向区域：欧洲、加拿大、澳洲
 
-        - 成绩：GPA 3.34/4(本科），GPA 3.75/4 (硕士）雅思 6.0
+        - 成绩：GPA 3.34/4（本科），GPA 3.75/4 （硕士）雅思 6.0
         
         - 套磁院校：瓦赫宁根大学，萨省大学，昆士兰大学，阿尔伯塔大学
         
-        - 已获offer学校：瓦赫宁根大学，萨省大学
+        - 已获Offer学校：瓦赫宁根大学，萨省大学
         
     - image: assets/img/illustration/university-02.jpg
       para: >+
@@ -118,7 +118,7 @@ sections:
         
         - 套磁院校：德州农工大学，雪城大学，弗吉尼亚理工大学，普渡大学，伊利诺伊大学厄巴纳-香槟分校，密歇根州立大学，圣地亚哥大学
         
-        - 录取学校：雪城大学（全奖offer），普渡大学（半奖offer），德州农工大学（Admission），圣地亚哥大学（Admission）
+        - 录取学校：雪城大学（全奖Offer），普渡大学（半奖Offer），德州农工大学（Admission），圣地亚哥大学（Admission）
 
 - type: portfolio.html
   # this section has always ID 'portfolio'
@@ -221,7 +221,7 @@ sections:
     
     特别说明：
     
-    - 选校套磁服务费用300元/老师，包括与同一位老师的邮件往来直至拿到教授邮件口头admission或offer或rejection，套磁成功加收1080元/免学费offer，680元/admission
+    - 选校套磁服务费用300元/老师，包括与同一位老师的邮件往来直至拿到教授邮件口头Admission或Offer或Rejection，套磁成功加收1080元/免学费Offer，680元/Admission
 
 ---
 

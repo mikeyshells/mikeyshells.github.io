@@ -60,7 +60,9 @@ sections:
       icon_style: fas
       title: 免费多轮润色
       text: >+
-        - 业内权威顾问，负责任的解答。咨询内容可涵盖但不限于：入学要求、申请资格、申请材料准备要求；留学花费、前期时间安排；意向院校比对等
+        - 业内权威顾问，负责任的解答
+        
+        - 咨询内容可涵盖但不限于：入学要求、申请资格、申请材料准备要求、留学花费、前期时间安排、意向院校比对等
         
 - type: members.html
   section_id: editor-qualifications

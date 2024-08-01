@@ -217,7 +217,7 @@ sections:
   note_style: text-white-50
   text_style: text-white
   text: >+
-    <table class="table table-bordered text-left text-muted"><thead><tr><th>服务类型</th><th>非会员价</th><th>会员价</th></tr></thead><tbody><tr><th>文书润色</th><td>300元/千词</td><td>270元/千词</td></tr><tr><th>文书撰写</th><td>880元/千词</td><td>800元/千词</td></tr><tr><th>选校套磁</th><td>300元/老师</td><td>270元/老师</td></tr></tbody></table>
+    <table class="table table-bordered text-left text-white"><thead><tr><th>服务类型</th><th>非会员价</th><th>会员价</th></tr></thead><tbody><tr><th>文书润色</th><td>300元/千词</td><td>270元/千词</td></tr><tr><th>文书撰写</th><td>880元/千词</td><td>800元/千词</td></tr><tr><th>选校套磁</th><td>300元/老师</td><td>270元/老师</td></tr></tbody></table>
     
     特别说明：
     

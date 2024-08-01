@@ -209,8 +209,13 @@ sections:
 
 - type: paragraph.html
   section_id: abroad-price
+  background_style: bg-primary
+  title_style: text-white
   title: 服务定价
+  divider_type: divider-white
   note: 优质的服务 合理的价格 会员可享更多优惠
+  note_style: text-white-50
+  text_style: text-white
   text: >+
     <table class="table table-bordered text-left text-muted"><thead><tr><th>服务类型</th><th>非会员价</th><th>会员价</th></tr></thead><tbody><tr><th>文书润色</th><td>300元/千词</td><td>270元/千词</td></tr><tr><th>文书撰写</th><td>880元/千词</td><td>800元/千词</td></tr><tr><th>选校套磁</th><td>300元/老师</td><td>270元/老师</td></tr></tbody></table>
     

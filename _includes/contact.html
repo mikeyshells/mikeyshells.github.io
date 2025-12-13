@@ -6,11 +6,84 @@
     <div class="row justify-content-center">
       {% for action in section.actions %}
       {% assign fa = action.icon_type | default: "fas" %}
-      <div class="col ml-auto text-center">
+      {% assign is_image = false %}
+      {% if action.url contains '.jpg' or action.url contains '.jpeg' or action.url contains '.png' or action.url contains '.gif' %}
+        {% assign is_image = true %}
+      {% endif %}
+      <div class="col ml-auto text-center contact-item-wrapper">
         <i class="{{ fa }} {{ action.icon }} fa-3x mb-3 text-muted"></i>
+        {% if is_image %}
+        <div class="contact-item-hover">
+          <span class="d-block contact-title">{{ action.title }}</span>
+          <div class="contact-image-preview">
+            <img src="{{ action.url }}" alt="{{ action.title }}" />
+          </div>
+        </div>
+        {% else %}
         <a class="d-block" href="{{ action.url }}">{{ action.title }}</a>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
   </div>
 </section>
+
+<style>
+.contact-item-wrapper {
+  position: relative;
+}
+
+.contact-item-hover {
+  cursor: pointer;
+  display: inline-block;
+}
+
+.contact-title {
+  color: #212529;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-item-hover:hover .contact-title {
+  color: #f4623a;
+}
+
+.contact-image-preview {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  top: 100%;
+  margin-top: 10px;
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.3s ease, visibility 0.3s ease;
+  z-index: 1000;
+  background: white;
+  padding: 10px;
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  pointer-events: none;
+}
+
+.contact-item-hover:hover .contact-image-preview {
+  opacity: 1;
+  visibility: visible;
+}
+
+.contact-image-preview img {
+  max-width: 250px;
+  max-height: 250px;
+  width: auto;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+}
+
+/* 响应式设计 - 小屏幕上调整图片大小 */
+@media (max-width: 768px) {
+  .contact-image-preview img {
+    max-width: 200px;
+    max-height: 200px;
+  }
+}
+</style>

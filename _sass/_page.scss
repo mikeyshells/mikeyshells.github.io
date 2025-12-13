@@ -1,6 +1,29 @@
 .pagehead {
-  height: 15em !important;
-  min-height: 15em !important;
+  min-height: 20em !important;
+  height: auto !important;
+}
+
+/* 移动端适配 - 确保内容完整显示在背景图片内 */
+@media (max-width: 767px) {
+  .pagehead {
+    min-height: 25em !important;
+    padding-top: 8rem !important;
+    padding-bottom: 3rem !important;
+  }
+}
+
+/* 平板端适配 */
+@media (min-width: 768px) and (max-width: 991px) {
+  .pagehead {
+    min-height: 22em !important;
+  }
+}
+
+/* 桌面端 */
+@media (min-width: 992px) {
+  .pagehead {
+    min-height: 20em !important;
+  }
 }
 .page-section-smaller {
   padding: 2rem 0;

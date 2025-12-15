@@ -1,5 +1,5 @@
 .pagehead {
-  min-height: 20em !important;
+  min-height: 16em !important;
   height: auto !important;
 }
 
@@ -15,14 +15,14 @@
 /* 平板端适配 */
 @media (min-width: 768px) and (max-width: 991px) {
   .pagehead {
-    min-height: 22em !important;
+    min-height: 17.6em !important;
   }
 }
 
 /* 桌面端 */
 @media (min-width: 992px) {
   .pagehead {
-    min-height: 20em !important;
+    min-height: 16em !important;
   }
 }
 .page-section-smaller {

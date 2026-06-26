@@ -2852,6 +2852,7 @@ use_preset_vocabulary: true
 昏识塔	hun shi ta	1
 昔日宗室之仪	xi ri zong shi zhi yi	1
 昔时之歌	xi shi zhi ge	1
+星与烟帷的夜语	xing yu yan wei de ye yu	1
 星兆	xing zhao	1
 星火	xing huo	1
 星燕	xing yan	1
@@ -2862,8 +2863,10 @@ use_preset_vocabulary: true
 星落湖	xing luo hu	1
 星蕈	xing xun	1
 星螺	xing luo	1
+星超导	xing chao dao	1
 星轨王城	xing gui wang cheng	1
 星轨王城的试炼	xing gui wang cheng de shi lian	1
+星辉棱晶	xing hui leng jing	1
 星银矿石	xing yin kuang shi	1
 星鹫赤羽	xing jiu chi yu	1
 映天之章	ying tian zhi zhang	1
@@ -2954,11 +2957,13 @@ use_preset_vocabulary: true
 月之印	yue zhi yin	1
 月之寻宝罗盘	yue zhi xun bao luo pan	1
 月之少女	yue zhi shao nv	1
+月兆祝赐	yue zhao zhu ci	1
 月光中共舞	yue guang zhong gong wu	1
 月光奏鸣曲	yue guang zou ming qu	1
 月光联系你我	yue guang lian xi ni wo	1
 月光鳍	yue guang qi	1
 月引周巡之述演	yue yin zhou xun zhi shu yan	1
+月感电	yue gan dian	1
 月映仙踪	yue ying xian zong	1
 月桂	yue gui	1
 月流奔引	yue liu ben yin	1
@@ -2971,6 +2976,9 @@ use_preset_vocabulary: true
 月神	yue shen	1
 月章星句	yue zhang xing ju	1
 月童的库藏	yue tong de ku cang	1
+月笼	yue long	1
+月结晶	yue jie jing	1
+月绽放	yue zhan fang	1
 月色鳍翅	yue se qi chi	1
 月莲	yue lian	1
 月莲杯	yue lian bei	1
@@ -3076,6 +3084,7 @@ use_preset_vocabulary: true
 极夜真梦	ji ye zhen meng	1
 极寒之核	ji han zhi he	1
 极恶骑	ji e qi	1
+极星辉域	ji xing hui yu	1
 极致一钓	ji zhi yi diao	1
 极速前进	ji su qian jin	1
 极限驱策法	ji xian qu ce fa	1
@@ -5078,6 +5087,7 @@ use_preset_vocabulary: true
 草神	cao shen	1
 草神瞳共鸣石	cao shen tong gong ming shi	1
 草种子	cao zhong zi	1
+草露	cao lu	1
 荒废砌造坞	huang fei qi zao wu	1
 荒性	huang xing	1
 荒性态	huang xing tai	1
@@ -5586,6 +5596,7 @@ use_preset_vocabulary: true
 赫姆斯	he mu si	1
 赫尔妲	he er da	1
 赫尔曼	he er man	1
+赫尔洛克变奏曲	he er luo ke bian zou qu	1
 赫布里穆	he bu li mu	1
 赫得蔚格	he de wei ge	1
 赫恩	he en	1

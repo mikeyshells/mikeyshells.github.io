@@ -16,6 +16,8 @@ var rules = [
             "b-cdn.net",
             "cursor.com",
             "cursor.sh",
+            "cursor-cdn.com",
+            "cursorapi.com",
             "stripe.com",
             "relamanhua.org",
             "mangacopy.com",

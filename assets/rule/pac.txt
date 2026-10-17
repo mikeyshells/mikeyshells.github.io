@@ -17,6 +17,7 @@ var rules = [
             "cursor.sh",
             "cursor-cdn.com",
             "cursorapi.com",
+            "cursorvm.com",
             "stripe.com",
             "oaistatic.com",
             "client-api.arkoselabs.com",

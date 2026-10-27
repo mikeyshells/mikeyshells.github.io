@@ -9,7 +9,6 @@ var rules = [
             "spotifycdn.com",
             "relamanhua.org",
             "mangacopy.com",
-            "qy0.ru",
             "h-comic.com",
             "h-comic.link",
             "18comic.ink",

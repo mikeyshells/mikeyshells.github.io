@@ -4,6 +4,7 @@ var rules = [
         [],
         [
             "iyf.tv",
+            "kubb.tv",
             "anygate.vip",
             "pipecdn.vip",
             "spotifycdn.com",
